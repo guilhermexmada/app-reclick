@@ -1,2 +1,2 @@
 # app-reclick
- Aplicativo em react-native do meu TCC 
+ Aplicativo mobile em react-native para TCC

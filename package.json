@@ -1,0 +1,50 @@
+{
+  "name": "appreclicktcc",
+  "version": "1.0.0",
+  "main": "expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo-google-fonts/comfortaa": "^0.2.3",
+    "@expo-google-fonts/jost": "^0.2.3",
+    "@expo-google-fonts/questrial": "^0.2.3",
+    "@react-native-community/datetimepicker": "8.0.1",
+    "@react-native-picker/picker": "^2.8.1",
+    "@react-navigation/bottom-tabs": "^6.6.1",
+    "@react-navigation/native": "^6.1.18",
+    "@react-navigation/native-stack": "^6.11.0",
+    "@react-navigation/stack": "^6.4.1",
+    "axios": "^1.7.4",
+    "directions": "^2.1.1",
+    "eas": "^0.1.0",
+    "eas-cli": "^12.5.2",
+    "expo": "~51.0.28",
+    "expo-app-loading": "^2.1.1",
+    "expo-google-fonts": "^0.0.0",
+    "expo-location": "^17.0.1",
+    "expo-notifications": "^0.28.18",
+    "expo-permissions": "^14.4.0",
+    "expo-status-bar": "~1.12.1",
+    "react": "18.2.0",
+    "react-native": "0.74.5",
+    "react-native-animatable": "^1.4.0",
+    "react-native-circular-progress": "^1.4.0",
+    "react-native-fast-image": "^8.6.3",
+    "react-native-flash-message": "^0.4.2",
+    "react-native-get-random-values": "^1.11.0",
+    "react-native-google-places-autocomplete": "^2.5.7",
+    "react-native-linear-gradient": "^2.8.3",
+    "react-native-maps": "^1.18.0",
+    "react-native-maps-directions": "^1.9.0",
+    "react-native-push-notification": "^8.1.1",
+    "react-native-reanimated": "~3.10.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
